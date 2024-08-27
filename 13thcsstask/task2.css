@@ -19,8 +19,9 @@ body{
 .container{
     margin-top: 10px;
     margin: 50px;
-    
+    justify-content: center;
     width: 100%;
+    display: flex;
    
 
     
@@ -28,19 +29,19 @@ body{
 .lcontainer{
 
     
-    height: 100%;
-    width: 1000px;
+   
+    width: 700px;
     
     display: inline-block;
-    padding: 10px;
     margin: 10px;
+    
 }
 
 
 .rcontainer{
     margin: 20px;
     height: 100%;
-    width: 800px;
+    width: 600px;
     
 
     display: inline-block;
@@ -49,7 +50,7 @@ body{
     margin: 10px;
 }
 img{
-    width: 980px;
+    width: 690px;
     height: 600px;
    
     
