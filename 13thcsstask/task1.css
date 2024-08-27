@@ -1,0 +1,47 @@
+header{
+    background-color: #009688;
+   height: 100px;
+   margin-top: 0;
+    
+    
+}
+h1{
+    padding: 10px 10px;
+    font-size: 36px;
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+}
+body{
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+.container{
+    margin: 10px;
+    padding: 20px;
+   
+    
+    width: 100%;
+}
+section{
+   
+   vertical-align: top;
+    height: 500px;
+    width: 600px;
+    margin: 10px;
+    
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 5px #ccc;
+   
+    display: inline-block;
+}
+img{
+    width: 100%;
+    height: 400px;
+    
+}
+.text{
+    
+    height: 60px;
+}
